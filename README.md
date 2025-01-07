@@ -10,3 +10,4 @@ profile, or period.
 The **'Revenue'** attribute can be used as the target class which is a binary categorical variable indicating
 whether a visitor's session on the e-commerce website resulted in a transaction.
 
+![Dataset features](dataset_features.png)
