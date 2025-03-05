@@ -1,6 +1,5 @@
 Administrative,Administrative_Duration,Informational,Informational_Duration,ProductRelated,ProductRelated_Duration,BounceRates,ExitRates,PageValues,SpecialDay,Month,OperatingSystems,Browser,Region,TrafficType,VisitorType,Weekend,Revenue
 0,0.0,0,0.0,2,64.0,0.0,0.1,0.0,0.0,Feb,2,2,1,2,Returning_Visitor,False,False
-0,0.0,0,0.0,2,2.666666667,0.05,0.14,0.0,0.0,Feb,3,2,2,4,Returning_Visitor,False,False
 0,0.0,0,0.0,10,627.5,0.02,0.05,0.0,0.0,Feb,3,3,1,4,Returning_Visitor,True,False
 0,0.0,0,0.0,19,154.2166667,0.015789474,0.024561404,0.0,0.0,Feb,2,2,1,3,Returning_Visitor,False,False
 0,0.0,0,0.0,2,37.0,0.0,0.1,0.0,0.8,Feb,2,2,2,3,Returning_Visitor,False,False
@@ -1746,6 +1745,7 @@ Administrative,Administrative_Duration,Informational,Informational_Duration,Prod
 0,0.0,0,0.0,5,151.2,0.0,0.053333333,0.0,0.8,May,7,1,3,1,Returning_Visitor,False,False
 0,0.0,0,0.0,7,212.0,0.028571429,0.028571429,0.0,0.4,May,3,3,5,1,Returning_Visitor,False,False
 2,2.0,0,0.0,0,0.0,0.1,0.1,0.0,0.0,May,1,1,3,2,Returning_Visitor,True,False
+0,0.0,0,0.0,16,748.4,0.014285714,0.035714286,43.19228571,0.0,May,2,2,3,4,Returning_Visitor,False,False
 0,0.0,0,0.0,38,314.8333333,0.010526316,0.031578947,0.0,0.6,May,2,2,1,3,Returning_Visitor,False,False
 1,0.0,0,0.0,19,867.8333333,0.015,0.028333333,0.0,0.0,May,2,2,7,6,Returning_Visitor,False,False
 0,0.0,2,56.0,9,379.0,0.0,0.03,0.0,0.0,May,2,2,2,4,New_Visitor,False,False
@@ -1963,7 +1963,6 @@ Administrative,Administrative_Duration,Informational,Informational_Duration,Prod
 0,0.0,2,52.0,12,699.25,0.023809524,0.028571429,0.0,0.0,May,1,1,3,3,Returning_Visitor,False,False
 0,0.0,0,0.0,5,331.3333333,0.053333333,0.096,0.0,0.0,May,2,10,3,4,Returning_Visitor,False,False
 0,0.0,0,0.0,8,321.0,0.0,0.05,0.0,0.2,May,2,2,3,4,Returning_Visitor,False,False
-0,0.0,0,0.0,13,88.0,0.115384615,0.125641026,0.0,0.6,May,3,2,1,3,Returning_Visitor,False,False
 0,0.0,0,0.0,3,55.0,0.044444444,0.111111111,0.0,0.0,May,3,5,1,3,Returning_Visitor,False,False
 0,0.0,1,172.0,21,564.5,0.0,0.042965368,0.0,0.8,May,3,3,2,1,Returning_Visitor,False,False
 0,0.0,0,0.0,6,65.66666667,0.066666667,0.1,0.0,0.0,May,2,2,2,3,Returning_Visitor,False,False
@@ -2221,7 +2220,6 @@ Administrative,Administrative_Duration,Informational,Informational_Duration,Prod
 0,0.0,0,0.0,37,511.1666667,0.018018018,0.036936937,0.0,1.0,May,2,2,1,13,Returning_Visitor,True,False
 5,196.6666667,0,0.0,94,2129.536752,0.003157895,0.004818713,0.0,0.0,May,3,2,1,3,Returning_Visitor,False,False
 0,0.0,0,0.0,16,480.3,0.0125,0.033333333,0.0,0.0,May,1,1,4,4,Returning_Visitor,True,False
-0,0.0,0,0.0,13,143.0,0.1,0.138461538,0.0,0.4,May,3,2,1,13,Returning_Visitor,False,False
 5,188.0,0,0.0,22,352.8,0.0,0.008,0.0,0.2,May,2,2,3,2,New_Visitor,False,False
 0,0.0,0,0.0,6,657.5,0.0,0.011111111,0.0,0.0,May,2,2,1,13,Returning_Visitor,False,False
 3,105.0,0,0.0,37,1384.383333,0.006766917,0.033646617,0.0,0.0,May,2,2,7,13,Returning_Visitor,False,False
@@ -2261,6 +2259,7 @@ Administrative,Administrative_Duration,Informational,Informational_Duration,Prod
 0,0.0,1,31.0,41,1678.733333,0.01,0.013333333,0.0,0.0,May,3,2,2,6,Returning_Visitor,False,False
 0,0.0,0,0.0,24,325.8333333,0.0,0.020833333,0.0,0.0,May,2,2,1,4,Returning_Visitor,True,False
 0,0.0,0,0.0,3,27.0,0.066666667,0.1,0.0,0.6,May,2,2,1,3,Returning_Visitor,False,False
+0,0.0,1,44.0,14,549.5,0.0,0.013333333,43.252,0.2,May,2,4,1,2,New_Visitor,False,True
 1,68.0,0,0.0,55,4277.0,0.003636364,0.021212121,7.291757576,0.0,May,1,1,1,1,Returning_Visitor,True,False
 3,124.0,0,0.0,13,173.0,0.0,0.017777778,0.0,0.0,May,2,2,1,2,New_Visitor,False,False
 0,0.0,0,0.0,6,179.5,0.033333333,0.066666667,0.0,0.0,May,2,2,4,6,Returning_Visitor,True,False
@@ -2524,6 +2523,7 @@ Administrative,Administrative_Duration,Informational,Informational_Duration,Prod
 1,6.0,0,0.0,2,85.0,0.0,0.066666667,0.0,0.0,May,2,4,1,2,Returning_Visitor,False,False
 2,32.0,0,0.0,7,164.5,0.0,0.008333333,0.0,0.4,May,2,2,1,4,Returning_Visitor,False,False
 0,0.0,0,0.0,20,275.6666667,0.066666667,0.114814815,0.0,0.0,May,2,2,1,4,Returning_Visitor,False,False
+0,0.0,0,0.0,89,5044.75689,0.002528736,0.008376076,0.0,0.8,May,1,1,6,6,Returning_Visitor,False,False
 0,0.0,0,0.0,5,691.0,0.0,0.08,0.0,0.6,May,2,2,2,3,Returning_Visitor,False,False
 0,0.0,1,1.5,43,1368.484848,0.015909091,0.053636364,0.0,0.6,May,1,1,1,2,Returning_Visitor,False,False
 0,0.0,0,0.0,23,1134.5,0.066459627,0.102717391,0.0,0.8,May,2,5,1,11,Returning_Visitor,False,False
@@ -2598,6 +2598,7 @@ Administrative,Administrative_Duration,Informational,Informational_Duration,Prod
 0,0.0,0,0.0,6,600.0,0.0,0.033333333,0.0,0.0,May,1,1,4,3,Returning_Visitor,False,False
 0,0.0,0,0.0,8,82.83333333,0.0,0.00625,0.0,0.0,May,1,1,1,4,Returning_Visitor,True,False
 5,99.16666667,1,27.0,33,483.2666667,0.002777778,0.009126984,0.0,0.6,May,8,5,1,2,Returning_Visitor,False,False
+5,436.0,0,0.0,7,26.0,0.066666667,0.075,0.0,0.0,May,3,2,2,13,Returning_Visitor,False,False
 0,0.0,0,0.0,12,272.6666667,0.0,0.009090909,0.0,0.0,May,3,2,1,4,New_Visitor,False,False
 1,43.0,1,0.0,3,65.0,0.0,0.04,0.0,0.6,May,2,2,1,4,Returning_Visitor,False,False
 8,102.6666667,0,0.0,49,4051.375,0.007272727,0.022949495,0.0,0.0,May,2,4,7,4,Returning_Visitor,False,False
@@ -3081,7 +3082,6 @@ Administrative,Administrative_Duration,Informational,Informational_Duration,Prod
 0,0.0,2,74.0,6,83.5,0.0,0.058333333,0.0,0.4,May,2,2,1,2,Returning_Visitor,False,False
 1,35.0,0,0.0,10,89.33333333,0.0,0.02,0.0,0.0,May,2,2,1,3,New_Visitor,False,False
 0,0.0,0,0.0,7,380.0,0.014285714,0.074285714,0.0,0.0,May,2,4,7,1,Returning_Visitor,True,False
-1,5.0,0,0.0,7,35.0,0.114285714,0.123809524,0.0,0.4,May,1,1,4,15,Returning_Visitor,False,False
 0,0.0,0,0.0,8,135.8333333,0.0,0.025,0.0,0.4,May,2,2,9,3,Returning_Visitor,False,False
 0,0.0,1,0.0,8,165.8,0.022222222,0.022222222,0.0,0.6,May,1,1,1,1,Returning_Visitor,False,False
 2,15.6,0,0.0,10,68.0,0.018181818,0.045454545,0.0,0.2,May,2,2,2,3,Returning_Visitor,False,False
@@ -3404,7 +3404,6 @@ Administrative,Administrative_Duration,Informational,Informational_Duration,Prod
 2,53.5,0,0.0,20,559.3809524,0.0,0.01,0.0,1.0,May,2,2,1,4,New_Visitor,True,False
 4,82.66666667,0,0.0,8,142.0,0.0,0.002857143,0.0,0.0,May,3,2,1,4,Returning_Visitor,False,False
 0,0.0,0,0.0,19,421.6,0.068421053,0.077192982,6.624947368,0.6,May,3,2,2,13,Returning_Visitor,False,True
-0,0.0,0,0.0,3,208.5,0.111111111,0.1,0.0,0.2,May,3,2,2,13,Returning_Visitor,False,False
 0,0.0,0,0.0,62,1471.858333,0.060655738,0.080437158,0.0,1.0,May,3,2,3,13,Returning_Visitor,True,False
 5,39.0,2,12.0,15,158.0,0.0,0.02010582,0.0,0.0,May,2,2,9,4,Returning_Visitor,False,False
 1,194.0,0,0.0,21,304.275,0.0,0.001169591,0.0,0.0,May,1,2,4,2,Returning_Visitor,False,False
@@ -4432,6 +4431,7 @@ Administrative,Administrative_Duration,Informational,Informational_Duration,Prod
 8,176.25,1,141.0,20,651.7658974,0.0,0.009230769,19.13285864,0.0,Nov,2,2,4,2,Returning_Visitor,False,True
 5,265.0433333,1,0.0,38,1712.776667,0.013333333,0.040833333,0.0,0.0,Aug,2,2,8,1,Returning_Visitor,False,False
 4,68.73333333,0,0.0,44,2498.866667,0.0,0.014444444,11.33062869,0.0,Oct,2,2,4,1,Returning_Visitor,False,True
+0,0.0,2,38.2,121,3362.749679,0.025170765,0.042322417,4.212415755,0.0,Jul,1,1,1,3,Returning_Visitor,False,False
 2,70.6,0,0.0,30,515.2333333,0.0,0.02,0.0,0.0,Aug,1,1,3,1,Returning_Visitor,False,False
 0,0.0,0,0.0,62,2636.513492,0.04781874,0.061364567,0.0,0.0,Jul,3,2,3,13,Returning_Visitor,True,False
 1,70.0,0,0.0,12,1644.233333,0.0,0.015384615,0.0,0.0,Aug,1,1,4,4,New_Visitor,False,False
@@ -4563,7 +4563,6 @@ Administrative,Administrative_Duration,Informational,Informational_Duration,Prod
 0,0.0,0,0.0,4,35.33333333,0.05,0.1,0.0,0.0,June,1,1,1,2,Returning_Visitor,True,False
 1,0.0,0,0.0,53,1170.733333,0.007272727,0.025454545,31.90320066,0.0,Aug,2,4,2,3,Returning_Visitor,False,True
 1,32.7,0,0.0,27,687.1966667,0.0,0.019393939,0.0,0.0,Nov,3,2,1,1,Returning_Visitor,False,False
-0,0.0,0,0.0,7,70.4,0.114285714,0.128571429,0.0,0.0,Jul,3,2,4,1,Returning_Visitor,False,False
 0,0.0,0,0.0,5,27.2,0.0,0.04,0.0,0.0,Nov,2,2,1,4,Returning_Visitor,False,False
 1,49.4,0,0.0,18,213.1714286,0.0,0.003921569,0.0,0.0,Oct,2,2,1,2,New_Visitor,False,False
 0,0.0,0,0.0,22,681.58,0.00952381,0.025396825,14.63523974,0.0,Nov,1,1,1,3,Returning_Visitor,True,True
@@ -6453,7 +6452,6 @@ Administrative,Administrative_Duration,Informational,Informational_Duration,Prod
 6,110.625,1,106.0,30,1508.521825,0.04,0.043294931,21.01746974,0.0,Nov,3,2,3,13,Returning_Visitor,False,False
 1,29.0,0,0.0,41,803.5077381,0.0,0.008424908,0.0,0.0,Dec,1,2,1,8,Returning_Visitor,True,False
 2,98.0,0,0.0,15,947.0,0.00625,0.006666667,0.0,0.0,Dec,2,2,3,2,Returning_Visitor,True,False
-0,0.0,0,0.0,3,2251.28,0.095833333,0.137426901,0.0,0.0,Nov,3,2,1,13,Returning_Visitor,False,False
 0,0.0,0,0.0,6,48.0,0.0,0.066666667,0.0,0.0,Nov,2,2,4,1,Returning_Visitor,False,False
 0,0.0,0,0.0,24,1286.5,0.0,0.015277778,0.0,0.0,Nov,2,2,9,8,Returning_Visitor,False,False
 0,0.0,0,0.0,4,396.25,0.0,0.083333333,0.0,0.0,Nov,2,2,4,2,Returning_Visitor,False,False
@@ -6508,6 +6506,7 @@ Administrative,Administrative_Duration,Informational,Informational_Duration,Prod
 1,73.0,0,0.0,32,593.0,0.0,0.013541667,0.0,0.0,Nov,2,2,3,6,Returning_Visitor,False,False
 7,118.5,0,0.0,28,829.2083333,0.0,0.015151515,17.79456354,0.0,Dec,1,2,3,2,Returning_Visitor,False,False
 0,0.0,0,0.0,9,183.3333333,0.0,0.022222222,0.0,0.0,Dec,2,10,4,1,Returning_Visitor,False,False
+7,322.25,1,0.0,121,4875.106113,0.011806061,0.020025438,0.0,0.0,Nov,3,2,1,13,Returning_Visitor,False,False
 0,0.0,0,0.0,2,14.0,0.0,0.1,0.0,0.0,Dec,4,2,1,1,Returning_Visitor,True,False
 0,0.0,0,0.0,25,1344.291667,0.0,0.008695652,0.0,0.0,Nov,2,4,1,8,Returning_Visitor,False,False
 1,15.0,0,0.0,19,817.5,0.011111111,0.022222222,0.0,0.0,Nov,2,2,1,2,Returning_Visitor,False,False
@@ -6821,6 +6820,7 @@ Administrative,Administrative_Duration,Informational,Informational_Duration,Prod
 0,0.0,0,0.0,3,75.5,0.0,0.066666667,0.0,0.0,Dec,3,2,4,2,Returning_Visitor,True,False
 0,0.0,0,0.0,21,1077.25,0.019047619,0.047619048,0.0,0.0,Nov,3,2,1,10,Returning_Visitor,False,False
 4,104.25,0,0.0,38,1429.875,0.0,0.022807018,4.113391331,0.0,Nov,2,2,1,13,Returning_Visitor,False,True
+1,9.0,0,0.0,15,688.1833333,0.0,0.011904762,43.03066045,0.0,Dec,1,1,3,2,New_Visitor,False,True
 0,0.0,0,0.0,42,1022.384615,0.014634146,0.031939605,0.0,0.0,Nov,1,1,2,10,Returning_Visitor,True,False
 0,0.0,0,0.0,7,354.5,0.028571429,0.04,0.0,0.0,Nov,2,2,4,8,Returning_Visitor,False,False
 2,67.75,0,0.0,11,417.9892857,0.016666667,0.043148148,0.0,0.0,Nov,3,2,1,2,Returning_Visitor,False,False
@@ -6992,6 +6992,7 @@ Administrative,Administrative_Duration,Informational,Informational_Duration,Prod
 0,0.0,0,0.0,2,35.5,0.0,0.1,0.0,0.0,Dec,2,6,1,11,Returning_Visitor,True,False
 0,0.0,0,0.0,8,444.6333333,0.0,0.025,0.0,0.0,Nov,2,4,1,10,Returning_Visitor,False,False
 0,0.0,0,0.0,5,93.0,0.0,0.04,0.0,0.0,Nov,2,2,1,3,Returning_Visitor,True,False
+0,0.0,2,248.5,121,4218.074847,0.009985097,0.026514442,0.624510388,0.0,Dec,2,2,1,2,Returning_Visitor,False,False
 1,10.0,0,0.0,9,700.0,0.0,0.011111111,29.62188989,0.0,Dec,2,2,9,10,Returning_Visitor,False,True
 2,115.0,0,0.0,97,1940.293452,0.01717251,0.032369194,0.0,0.0,Nov,1,1,3,10,Returning_Visitor,True,False
 4,55.25,0,0.0,27,705.5,0.0,0.007901235,0.0,0.0,Nov,1,1,9,3,Returning_Visitor,False,False
@@ -7941,6 +7942,7 @@ Administrative,Administrative_Duration,Informational,Informational_Duration,Prod
 0,0.0,0,0.0,17,532.75,0.013333333,0.046666667,0.0,0.0,Dec,1,1,3,1,Returning_Visitor,True,False
 0,0.0,0,0.0,10,228.0,0.0,0.06,0.0,0.0,Nov,2,10,1,1,Returning_Visitor,True,False
 0,0.0,0,0.0,28,728.9791667,0.029761905,0.032959184,0.0,0.0,Nov,1,1,3,2,Returning_Visitor,False,False
+3,65.5,3,60.0,30,1383.375,0.014141414,0.039393939,43.20756866,0.0,Nov,2,2,1,1,Returning_Visitor,False,False
 3,107.2083333,0,0.0,17,513.25,0.0,0.012030075,17.54619116,0.0,Nov,2,2,1,10,Returning_Visitor,False,True
 0,0.0,0,0.0,82,3247.433333,0.002439024,0.012804878,0.0,0.0,Nov,2,2,1,2,Returning_Visitor,False,False
 0,0.0,0,0.0,20,1017.5,0.005,0.033333333,0.0,0.0,Nov,2,2,1,1,Returning_Visitor,False,False
@@ -8012,7 +8014,6 @@ Administrative,Administrative_Duration,Informational,Informational_Duration,Prod
 0,0.0,0,0.0,11,205.75,0.018181818,0.036363636,0.0,0.0,Dec,4,1,8,2,Returning_Visitor,False,False
 0,0.0,0,0.0,9,470.0,0.0375,0.066666667,0.0,0.0,Dec,2,4,1,1,Returning_Visitor,False,False
 0,0.0,0,0.0,8,497.25,0.016666667,0.025,0.0,0.0,Dec,1,8,3,1,Returning_Visitor,True,False
-0,0.0,0,0.0,5,125.75,0.066666667,0.14,0.0,0.0,Nov,3,2,1,10,Returning_Visitor,True,False
 0,0.0,0,0.0,80,3734.958333,0.0025,0.026547619,0.0,0.0,Nov,2,2,1,2,Returning_Visitor,False,False
 4,82.5,0,0.0,16,299.5,0.0,0.005555556,0.0,0.0,Dec,1,1,4,2,Returning_Visitor,True,False
 0,0.0,0,0.0,5,75.0,0.04,0.08,0.0,0.0,Dec,3,2,7,1,Returning_Visitor,False,False
