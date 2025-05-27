@@ -10,7 +10,7 @@ profile, or period.
 The **'Revenue'** attribute is used as the target class which is a binary categorical variable indicating
 whether a visitor's session on the e-commerce website resulted in a transaction.
 
-![Dataset features](dataset_features.png)
+![Dataset features](RepoAssets/dataset_features.png)
 
 
 # Insights
@@ -30,3 +30,11 @@ whether a visitor's session on the e-commerce website resulted in a transaction.
 2. Users are located most frequently in Region 1 and Region 3.
 
 3. Visitors to the website are mostly returning users.
+
+
+### Some Charts
+
+
+![](RepoAssets/NumberVisitsAdministrative.png)
+
+![](RepoAssets/VisitsPerMonth.png)
